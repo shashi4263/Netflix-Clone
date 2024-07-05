@@ -10,5 +10,5 @@ export default function GoogleSignInButton(){
         <Button onClick={() => signIn("google")} variant={"outline"} size={"icon"}>
             <Image src={GooogleIcon} alt="googleIcon" className="w-6 h-6"/>
         </Button>
-    )
+    );
 }
