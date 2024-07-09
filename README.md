@@ -6,12 +6,7 @@ A Netflix clone built using Next.js and various modern web development tools, in
 
 - [Features](#features)
 - [Tech Stack](#tech-stack)
-- [Setup](#setup)
-- [Usage](#usage)
-- [Project Structure](#project-structure)
-- [Screenshots](#screenshots)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Features
 
